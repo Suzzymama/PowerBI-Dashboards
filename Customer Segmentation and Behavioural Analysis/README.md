@@ -4,6 +4,7 @@
 This dashboard presents insights derived from customer data collected over a 10-year period (2015–2025). It focuses on customer demographics, behavior, and trends to support data-driven decision-making.
 
 ---
+![Customer Dashboard](Customer Segmentation And Behavioral Analysis Dashboard.png)
 
 ## 🔑 Key Insights
 - Age group distribution of customers, highlighting the dominant segment  
