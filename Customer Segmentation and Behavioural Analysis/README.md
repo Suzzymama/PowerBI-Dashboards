@@ -76,7 +76,8 @@ Retail clients dominate the customer base, while private clients have the lowest
 
 ## 🛠️ Tools Used
 - DAX Formulas
-- Data Cleaning & Transformation  
+- Slicers
+- Data Cleaning & Transformation with Power Pivot
 - Data Visualization  
 
 ---
