@@ -17,6 +17,7 @@ This dashboard presents insights derived from customer data collected over a 10-
 
 ## 📈 Trends and Analysis
 ![Customer Segmentation and Behavioural Analysis Dashboard](assets/dashboard.png)
+***Customer Segmentation and Behavioural Analysis Dashboard***
 
 ### 1. Customer Growth
 The line chart illustrates customer growth from 2015 to 2025.
